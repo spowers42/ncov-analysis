@@ -10,3 +10,4 @@ apt install cd-hit
 apt install datamash
 conda install -c bioconda taxonkit
 wget -qO- ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz  | tar xvz - -C $HOME/.taxonkit
+pip install streamlit
